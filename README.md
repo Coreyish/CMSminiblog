@@ -113,9 +113,10 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 ---
 
-## Authors and Acknowledgments
-  Corey
-
+## Resoucres and Guidince 
+https://www.youtube.com/watch?v=3F9kxrdML44&list=PLwAKR305CRO_cukAejlt5kz3pTtDMW_Cd&index=5
+https://www.youtube.com/watch?v=1NrHkjlWVhM
+ in depth view , i was following for file struture and design notes 
 ---
 
 ## Contact Information:
